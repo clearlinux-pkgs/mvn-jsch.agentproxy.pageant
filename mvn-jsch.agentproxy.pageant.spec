@@ -4,7 +4,7 @@
 #
 Name     : mvn-jsch.agentproxy.pageant
 Version  : 0.0.7
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.pageant/0.0.7/jsch.agentproxy.pageant-0.0.7.jar
 Source0  : https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.pageant/0.0.7/jsch.agentproxy.pageant-0.0.7.jar
 Source1  : https://repo1.maven.org/maven2/com/jcraft/jsch.agentproxy.pageant/0.0.7/jsch.agentproxy.pageant-0.0.7.pom
